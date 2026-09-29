@@ -1,6 +1,7 @@
-def yoga_2025_plan():
-    print("1 surya namaskar")
-    print("1 time shavasana")
-    print("5 min break after every asana")
-    print("refreshment after yoga")
-yoga_2025_plan()
+def yoga_2026_plan():
+    print("108 surya namaskar")
+    print("0 time shavasana")
+    #print("5 min break after every asana")
+    print("saatvik refreshment after yoga")
+    
+yoga_2026_plan()
